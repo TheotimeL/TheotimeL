@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://minotar.net/armor/bust/mhf_steve/500.png" width="100"/>
   <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/th%C3%A9otime-lavisse-b69775193/)">
+  <a href="https://www.linkedin.com/in/th%C3%A9otime-lavisse-b69775193">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
