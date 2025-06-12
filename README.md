@@ -13,7 +13,6 @@
 
 ## 👨‍🦱 About me : 
 - 🔭 I’m currently working as a Software Engineer
-- 🌱 I'm learning fullstack development with The Odin Project
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
